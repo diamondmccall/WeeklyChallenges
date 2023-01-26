@@ -1,0 +1,15 @@
+/Users/diamondmartinez-mccall/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8
+/Users/diamondmartinez-mccall/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.deps.json
+/Users/diamondmartinez-mccall/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.runtimeconfig.json
+/Users/diamondmartinez-mccall/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.dll
+/Users/diamondmartinez-mccall/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.pdb
+/Users/diamondmartinez-mccall/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.csproj.AssemblyReference.cache
+/Users/diamondmartinez-mccall/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diamondmartinez-mccall/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.AssemblyInfoInputs.cache
+/Users/diamondmartinez-mccall/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.AssemblyInfo.cs
+/Users/diamondmartinez-mccall/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
+/Users/diamondmartinez-mccall/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.dll
+/Users/diamondmartinez-mccall/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/refint/ChallengesWithTestsMark8.dll
+/Users/diamondmartinez-mccall/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.pdb
+/Users/diamondmartinez-mccall/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.genruntimeconfig.cache
+/Users/diamondmartinez-mccall/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ref/ChallengesWithTestsMark8.dll
